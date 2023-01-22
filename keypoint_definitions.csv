@@ -12,5 +12,5 @@ Index,Name,Hex colour,Stanford,Animal-pose,(name in animal pose)
 10,RIGHT_HIP,0090aa,y,y,R_B_Knee
 11,LEFT_KNEE,0090aa,y,y,R_B_Elbow
 12,RIGHT_KNEE,d848ff,y,y,TailBase
-13,LEFT_ANKLE,d848ff,y,n,
+13,LEFT_ANKLE,d848ff,y,n,TailBase
 14,RIGHT_ANKLE,fc90aa,y,y,L_EarBase
